@@ -1,0 +1,6398 @@
+[
+  {
+    "guid": "536aa6d5-ebd1-9a91-8c3c-405393c4ad69",
+    "phase": {
+      "guid": "d3e4b14f-66dd-1aaa-c04d-2aabda1ee6b2",
+      "name": "Platform support Q2: Apr",
+      "isCompleted": false,
+      "isLocked": false
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Update SE + NL emails with personalization fields.\n- Testings. ",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-04-06",
+    "quantity": 2,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-04-08T12:29:40+03:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": null,
+    "lastUpdatedBy": null
+  },
+  {
+    "guid": "32e6e728-8c9f-482b-b183-3b93f0e86a85",
+    "phase": {
+      "guid": "d3e4b14f-66dd-1aaa-c04d-2aabda1ee6b2",
+      "name": "Platform support Q2: Apr",
+      "isCompleted": false,
+      "isLocked": false
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Update template.\n- Add translation for NL+SE region.",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-04-05",
+    "quantity": 2,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-04-08T12:28:49+03:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": null,
+    "lastUpdatedBy": null
+  },
+  {
+    "guid": "f287f2a5-1ef3-a505-7bf1-49cb29befeb1",
+    "phase": {
+      "guid": "d3e4b14f-66dd-1aaa-c04d-2aabda1ee6b2",
+      "name": "Platform support Q2: Apr",
+      "isCompleted": false,
+      "isLocked": false
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "-ABM Meeting.",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-04-01",
+    "quantity": 0.5,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-04-01T15:23:11+03:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": null,
+    "lastUpdatedBy": null
+  },
+  {
+    "guid": "9ddd37d9-bf7f-df98-d98e-a581311f85bd",
+    "phase": {
+      "guid": "28e0eb17-da82-b932-ef62-895c974e55f3",
+      "name": "Platform support Q1: Mar",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Create email for ABM.\n- Add interactive content to US_EN Final Email.\n- ABM journey modify + check and test.\n",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-03-31",
+    "quantity": 7.6,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-04-01T12:18:53+03:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": "2022-04-01T12:21:21+03:00",
+    "lastUpdatedBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    }
+  },
+  {
+    "guid": "a81e1c13-a958-05f9-e285-3efb188602e8",
+    "phase": {
+      "guid": "28e0eb17-da82-b932-ef62-895c974e55f3",
+      "name": "Platform support Q1: Mar",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- ABM meeting checkup.\n- ABM journey config\n- US_EN content modification",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-03-30",
+    "quantity": 4,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-04-01T12:24:21+03:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": null,
+    "lastUpdatedBy": null
+  },
+  {
+    "guid": "ac31e0a3-58b6-f867-c7a9-993c7a822e18",
+    "phase": {
+      "guid": "28e0eb17-da82-b932-ef62-895c974e55f3",
+      "name": "Platform support Q1: Mar",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- ABM meeting.",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-03-29",
+    "quantity": 0.5,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-03-29T10:30:24+03:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": null,
+    "lastUpdatedBy": null
+  },
+  {
+    "guid": "c7c9ef2c-b91a-60d3-74be-21d57e9de5d4",
+    "phase": {
+      "guid": "28e0eb17-da82-b932-ef62-895c974e55f3",
+      "name": "Platform support Q1: Mar",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Integrated ABM emails to decision split in SE_SV lead nurturing.\n- Worked with SF support to get leads to enter the journey by the latest interaction.\n-  Review and test SE_SV_ABM journey.",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-03-29",
+    "quantity": 7.1,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-03-29T16:19:29+03:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": "2022-03-29T16:21:12+03:00",
+    "lastUpdatedBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    }
+  },
+  {
+    "guid": "5e8753b0-101c-c575-fead-8a265eefd76b",
+    "phase": {
+      "guid": "28e0eb17-da82-b932-ef62-895c974e55f3",
+      "name": "Platform support Q1: Mar",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Weekly meeting.",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-03-28",
+    "quantity": 0.5,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-03-28T21:04:41+03:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": null,
+    "lastUpdatedBy": null
+  },
+  {
+    "guid": "0fd1845c-021d-0838-b7e5-5e04c546266a",
+    "phase": {
+      "guid": "28e0eb17-da82-b932-ef62-895c974e55f3",
+      "name": "Platform support Q1: Mar",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Worked with SFMC.",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-03-28",
+    "quantity": 1,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-03-29T10:28:10+03:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": null,
+    "lastUpdatedBy": null
+  },
+  {
+    "guid": "8383d8da-0592-05a2-8a02-5a24f5c4a593",
+    "phase": {
+      "guid": "28e0eb17-da82-b932-ef62-895c974e55f3",
+      "name": "Platform support Q1: Mar",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Fix Marijne Blokdijk's request.",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-03-28",
+    "quantity": 1,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-03-29T10:30:03+03:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": null,
+    "lastUpdatedBy": null
+  },
+  {
+    "guid": "e4733515-faf0-b138-1670-f9f01eddf852",
+    "phase": {
+      "guid": "28e0eb17-da82-b932-ef62-895c974e55f3",
+      "name": "Platform support Q1: Mar",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Brief meeting with Vy\n- Meeting with SFMC support.",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-03-25",
+    "quantity": 2,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-03-29T10:26:30+03:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": null,
+    "lastUpdatedBy": null
+  },
+  {
+    "guid": "a766a25f-eb60-c1eb-ae4c-186c81458028",
+    "phase": {
+      "guid": "28e0eb17-da82-b932-ef62-895c974e55f3",
+      "name": "Platform support Q1: Mar",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Pull PriorityAccountABM__c to SFMC. \n- Configured ABM journey",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-03-25",
+    "quantity": 5.6,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-03-29T16:18:40+03:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": null,
+    "lastUpdatedBy": null
+  },
+  {
+    "guid": "e097f23c-5d8c-a423-afb9-0c7a0ec72d7d",
+    "phase": {
+      "guid": "28e0eb17-da82-b932-ef62-895c974e55f3",
+      "name": "Platform support Q1: Mar",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- ABM Journey brief.",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-03-24",
+    "quantity": 0.25,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-03-29T10:25:50+03:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": null,
+    "lastUpdatedBy": null
+  },
+  {
+    "guid": "4f35df0e-4425-7a8f-47c7-04986c838d56",
+    "phase": {
+      "guid": "28e0eb17-da82-b932-ef62-895c974e55f3",
+      "name": "Platform support Q1: Mar",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Fix email requested by Marijne Blokdijk",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-03-22",
+    "quantity": 1,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-03-29T10:25:13+03:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": null,
+    "lastUpdatedBy": null
+  },
+  {
+    "guid": "96e47178-e745-976e-8905-2f1aad19a254",
+    "phase": {
+      "guid": "28e0eb17-da82-b932-ef62-895c974e55f3",
+      "name": "Platform support Q1: Mar",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "Weekly meeting",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-03-21",
+    "quantity": 0.5,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-03-28T21:02:38+03:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": null,
+    "lastUpdatedBy": null
+  },
+  {
+    "guid": "58d64154-acbd-ca33-b734-1fd42f55631a",
+    "phase": {
+      "guid": "28e0eb17-da82-b932-ef62-895c974e55f3",
+      "name": "Platform support Q1: Mar",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "RMM discussion with Vy",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-03-21",
+    "quantity": 0.5,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-03-28T23:21:39+03:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": null,
+    "lastUpdatedBy": null
+  },
+  {
+    "guid": "c6642c99-ae33-ca96-35d1-d6658ef7be20",
+    "phase": {
+      "guid": "28e0eb17-da82-b932-ef62-895c974e55f3",
+      "name": "Platform support Q1: Mar",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Debugging with Vy",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-03-21",
+    "quantity": 2,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-03-29T10:23:42+03:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": null,
+    "lastUpdatedBy": null
+  },
+  {
+    "guid": "ae05ced4-2364-f11d-ce40-74a544c7ab9b",
+    "phase": {
+      "guid": "28e0eb17-da82-b932-ef62-895c974e55f3",
+      "name": "Platform support Q1: Mar",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Worked with no-reply email setup.",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-03-18",
+    "quantity": 2,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-03-29T10:39:57+03:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": null,
+    "lastUpdatedBy": null
+  },
+  {
+    "guid": "8ee1169b-0dd9-7e44-c241-2048cf0947fe",
+    "phase": {
+      "guid": "28e0eb17-da82-b932-ef62-895c974e55f3",
+      "name": "Platform support Q1: Mar",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- DMARC cont.",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-03-17",
+    "quantity": 3,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-03-18T11:22:40+02:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": null,
+    "lastUpdatedBy": null
+  },
+  {
+    "guid": "cc1c3cae-77a5-23ae-3af4-8e0ed67ff3e1",
+    "phase": {
+      "guid": "28e0eb17-da82-b932-ef62-895c974e55f3",
+      "name": "Platform support Q1: Mar",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Worked with SFMC.",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-03-17",
+    "quantity": 1,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-03-29T10:27:50+03:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": null,
+    "lastUpdatedBy": null
+  },
+  {
+    "guid": "a8c5c7e4-04e2-a46c-121c-2844c4e5a93c",
+    "phase": {
+      "guid": "28e0eb17-da82-b932-ef62-895c974e55f3",
+      "name": "Platform support Q1: Mar",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- DMARC Policy prevents SFMC send out emails to recipients.\n- Work-around method proposal.\n- DKIM key configuration.",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-03-16",
+    "quantity": 7.6,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-03-18T11:15:23+02:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": "2022-03-18T11:22:20+02:00",
+    "lastUpdatedBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    }
+  },
+  {
+    "guid": "ebfd11bd-f6fc-b3fd-3163-e1bdd719fbb6",
+    "phase": {
+      "guid": "28e0eb17-da82-b932-ef62-895c974e55f3",
+      "name": "Platform support Q1: Mar",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Worked on Reply Mail Management.\n- Configured + Checked DNS MX Records.\n- Proposal delegate subdomain to SFMC. \n",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-03-15",
+    "quantity": 7.6,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-03-18T11:12:08+02:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": "2022-03-18T11:14:17+02:00",
+    "lastUpdatedBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    }
+  },
+  {
+    "guid": "d603ba53-2de6-deec-8045-7620865623ce",
+    "phase": {
+      "guid": "28e0eb17-da82-b932-ef62-895c974e55f3",
+      "name": "Platform support Q1: Mar",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Weekly meeting",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-03-14",
+    "quantity": 0.5,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-03-18T11:28:06+02:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": null,
+    "lastUpdatedBy": null
+  },
+  {
+    "guid": "876a6b74-3bbf-039a-d081-3ff3176c8faf",
+    "phase": {
+      "guid": "28e0eb17-da82-b932-ef62-895c974e55f3",
+      "name": "Platform support Q1: Mar",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "weekly",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 90,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 90,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "c450b6ee-2690-b794-ff0a-1884c2d21cc1",
+      "name": "Tatu Turunen",
+      "firstName": "Tatu",
+      "lastName": "Turunen",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-03-14",
+    "quantity": 0.5,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-03-31T13:49:42+03:00",
+    "createdBy": {
+      "guid": "c450b6ee-2690-b794-ff0a-1884c2d21cc1",
+      "name": "Tatu Turunen",
+      "firstName": "Tatu",
+      "lastName": "Turunen",
+      "code": null
+    },
+    "lastUpdatedDateTime": null,
+    "lastUpdatedBy": null
+  },
+  {
+    "guid": "2b9b45f7-7b29-a258-3493-011ce616dc31",
+    "phase": {
+      "guid": "28e0eb17-da82-b932-ef62-895c974e55f3",
+      "name": "Platform support Q1: Mar",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Fixed - Script detect email client to display content conditionally.",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-03-11",
+    "quantity": 4,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-03-18T11:19:06+02:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": "2022-03-18T11:26:18+02:00",
+    "lastUpdatedBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    }
+  },
+  {
+    "guid": "ad597b0f-1f7c-513b-85d7-8688619b773f",
+    "phase": {
+      "guid": "28e0eb17-da82-b932-ef62-895c974e55f3",
+      "name": "Platform support Q1: Mar",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- RMM setup onboarding with Vy",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-03-10",
+    "quantity": 0.5,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-03-18T11:25:45+02:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": null,
+    "lastUpdatedBy": null
+  },
+  {
+    "guid": "0198fc9e-2cbd-163f-1f15-65d7973cc7af",
+    "phase": {
+      "guid": "28e0eb17-da82-b932-ef62-895c974e55f3",
+      "name": "Platform support Q1: Mar",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Fixed templates in Neste Marketing&Service BU",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-03-09",
+    "quantity": 2,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-03-10T00:01:08+02:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": null,
+    "lastUpdatedBy": null
+  },
+  {
+    "guid": "d9122b1b-5ea8-f002-55ee-6e2cb0c844aa",
+    "phase": {
+      "guid": "28e0eb17-da82-b932-ef62-895c974e55f3",
+      "name": "Platform support Q1: Mar",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Generate contacts report for Matti.",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-03-09",
+    "quantity": 1,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-03-10T00:02:39+02:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": null,
+    "lastUpdatedBy": null
+  },
+  {
+    "guid": "490b42ae-7e3b-bb0b-2fd9-8db9ca6c082a",
+    "phase": {
+      "guid": "28e0eb17-da82-b932-ef62-895c974e55f3",
+      "name": "Platform support Q1: Mar",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Send emails to leads that missed the Gated content.",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-03-08",
+    "quantity": 3.5,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-03-08T00:43:35+02:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": null,
+    "lastUpdatedBy": null
+  },
+  {
+    "guid": "6b0ba1cd-49f3-227a-77df-299db2d98cca",
+    "phase": {
+      "guid": "28e0eb17-da82-b932-ef62-895c974e55f3",
+      "name": "Platform support Q1: Mar",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Debug NL Gated content.\n- Fix AMPScript to all Gated contents in all regions.\n- Change content in CloudPage.\n- Testings.",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-03-07",
+    "quantity": 7.6,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-03-08T00:35:22+02:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": "2022-03-08T00:44:13+02:00",
+    "lastUpdatedBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    }
+  },
+  {
+    "guid": "669788b6-89f2-8533-2711-659db987df57",
+    "phase": {
+      "guid": "28e0eb17-da82-b932-ef62-895c974e55f3",
+      "name": "Platform support Q1: Mar",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "Platform support Q1: Mar: Billable customer work weekly",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 90,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 90,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "c450b6ee-2690-b794-ff0a-1884c2d21cc1",
+      "name": "Tatu Turunen",
+      "firstName": "Tatu",
+      "lastName": "Turunen",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-03-07",
+    "quantity": 0.5,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-03-31T13:49:04+03:00",
+    "createdBy": {
+      "guid": "c450b6ee-2690-b794-ff0a-1884c2d21cc1",
+      "name": "Tatu Turunen",
+      "firstName": "Tatu",
+      "lastName": "Turunen",
+      "code": null
+    },
+    "lastUpdatedDateTime": "2022-03-31T13:49:07+03:00",
+    "lastUpdatedBy": {
+      "guid": "c450b6ee-2690-b794-ff0a-1884c2d21cc1",
+      "name": "Tatu Turunen",
+      "firstName": "Tatu",
+      "lastName": "Turunen",
+      "code": null
+    }
+  },
+  {
+    "guid": "acea7429-38d3-27f1-4281-b28cc21cfed5",
+    "phase": {
+      "guid": "28e0eb17-da82-b932-ef62-895c974e55f3",
+      "name": "Platform support Q1: Mar",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- STOs added to all journeys in all regions.\n- Setup + cleanup + test.",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-03-04",
+    "quantity": 3.6,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-03-08T00:40:23+02:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": null,
+    "lastUpdatedBy": null
+  },
+  {
+    "guid": "db839742-afe7-6f6a-edc1-242d9bbfaf4f",
+    "phase": {
+      "guid": "28e0eb17-da82-b932-ef62-895c974e55f3",
+      "name": "Platform support Q1: Mar",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Retrieve contacts for RRT BU only.",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-03-04",
+    "quantity": 2,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-03-08T00:40:46+02:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": "2022-03-08T00:41:03+02:00",
+    "lastUpdatedBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    }
+  },
+  {
+    "guid": "f5bfd1a2-800c-91e0-60b9-adc84d16c935",
+    "phase": {
+      "guid": "28e0eb17-da82-b932-ef62-895c974e55f3",
+      "name": "Platform support Q1: Mar",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "Meeting with Neste.",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-03-03",
+    "quantity": 0.5,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-03-08T00:39:26+02:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": null,
+    "lastUpdatedBy": null
+  },
+  {
+    "guid": "115754b2-fb24-1a9e-cf5d-b15df3037a3e",
+    "phase": {
+      "guid": "28e0eb17-da82-b932-ef62-895c974e55f3",
+      "name": "Platform support Q1: Mar",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "Remove testing files, queries",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-03-01",
+    "quantity": 1,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-03-01T03:29:34+02:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": null,
+    "lastUpdatedBy": null
+  },
+  {
+    "guid": "c7908830-eb31-b269-9a5d-e38af04faec5",
+    "phase": {
+      "guid": "d1104725-9e30-acf0-2f52-9a8e816ad2f5",
+      "name": "Platform support Q1: Feb",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Weekly meeting.",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-02-28",
+    "quantity": 0.5,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-03-01T01:26:37+02:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": null,
+    "lastUpdatedBy": null
+  },
+  {
+    "guid": "b544c4b5-f5fa-b62e-2f6a-7ea6c0222528",
+    "phase": {
+      "guid": "c5be4320-b0cd-afa7-833e-7f919211f6d8",
+      "name": "PM",
+      "isCompleted": false,
+      "isLocked": false
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "Monthly coordination",
+    "unitPrice": {
+      "amount": 144,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 144,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 105,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 105,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "43fb085d-214a-85a4-75af-a9b54418ba80",
+      "name": "Markus Meyer",
+      "firstName": "Markus",
+      "lastName": "Meyer",
+      "code": ""
+    },
+    "overtime": null,
+    "eventDate": "2022-02-28",
+    "quantity": 1,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-03-01T11:13:34+02:00",
+    "createdBy": {
+      "guid": "43fb085d-214a-85a4-75af-a9b54418ba80",
+      "name": "Markus Meyer",
+      "firstName": "Markus",
+      "lastName": "Meyer",
+      "code": ""
+    },
+    "lastUpdatedDateTime": null,
+    "lastUpdatedBy": null
+  },
+  {
+    "guid": "45b15b50-024e-9e96-c3c5-0dd58ce905fe",
+    "phase": {
+      "guid": "d1104725-9e30-acf0-2f52-9a8e816ad2f5",
+      "name": "Platform support Q1: Feb",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "weekly",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 90,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 90,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "c450b6ee-2690-b794-ff0a-1884c2d21cc1",
+      "name": "Tatu Turunen",
+      "firstName": "Tatu",
+      "lastName": "Turunen",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-02-28",
+    "quantity": 0.3,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-02-28T22:28:17+02:00",
+    "createdBy": {
+      "guid": "c450b6ee-2690-b794-ff0a-1884c2d21cc1",
+      "name": "Tatu Turunen",
+      "firstName": "Tatu",
+      "lastName": "Turunen",
+      "code": null
+    },
+    "lastUpdatedDateTime": null,
+    "lastUpdatedBy": null
+  },
+  {
+    "guid": "4cdfde31-1745-e06c-1289-304f65cfb739",
+    "phase": {
+      "guid": "d1104725-9e30-acf0-2f52-9a8e816ad2f5",
+      "name": "Platform support Q1: Feb",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Change US_EN email (with title + description) to production.\n- Apply changes to SE_SV.",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-02-25",
+    "quantity": 1.5,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-03-01T01:25:58+02:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": null,
+    "lastUpdatedBy": null
+  },
+  {
+    "guid": "8e29a5bd-2472-a954-5278-f0da13852e6c",
+    "phase": {
+      "guid": "d1104725-9e30-acf0-2f52-9a8e816ad2f5",
+      "name": "Platform support Q1: Feb",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "MC contacts",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 90,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 90,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "c450b6ee-2690-b794-ff0a-1884c2d21cc1",
+      "name": "Tatu Turunen",
+      "firstName": "Tatu",
+      "lastName": "Turunen",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-02-24",
+    "quantity": 1,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-02-28T22:20:05+02:00",
+    "createdBy": {
+      "guid": "c450b6ee-2690-b794-ff0a-1884c2d21cc1",
+      "name": "Tatu Turunen",
+      "firstName": "Tatu",
+      "lastName": "Turunen",
+      "code": null
+    },
+    "lastUpdatedDateTime": null,
+    "lastUpdatedBy": null
+  },
+  {
+    "guid": "c4c766f5-cb87-af71-650a-790b96740913",
+    "phase": {
+      "guid": "d1104725-9e30-acf0-2f52-9a8e816ad2f5",
+      "name": "Platform support Q1: Feb",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Tested with fallback block",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-02-23",
+    "quantity": 1,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-03-01T01:20:39+02:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": "2022-03-01T01:20:52+02:00",
+    "lastUpdatedBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    }
+  },
+  {
+    "guid": "e12424ce-1a45-f881-8885-11a76fcd87e5",
+    "phase": {
+      "guid": "d1104725-9e30-acf0-2f52-9a8e816ad2f5",
+      "name": "Platform support Q1: Feb",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Weekly meeting.\n- FTP password expiration check.",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-02-21",
+    "quantity": 1.5,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-02-21T18:27:08+02:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": "2022-03-01T01:38:00+02:00",
+    "lastUpdatedBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    }
+  },
+  {
+    "guid": "c6bdf7d2-5a3d-03f8-4d51-2661a76a1cf4",
+    "phase": {
+      "guid": "d1104725-9e30-acf0-2f52-9a8e816ad2f5",
+      "name": "Platform support Q1: Feb",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "weekly",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 90,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 90,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "c450b6ee-2690-b794-ff0a-1884c2d21cc1",
+      "name": "Tatu Turunen",
+      "firstName": "Tatu",
+      "lastName": "Turunen",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-02-21",
+    "quantity": 0.5,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-02-28T22:10:17+02:00",
+    "createdBy": {
+      "guid": "c450b6ee-2690-b794-ff0a-1884c2d21cc1",
+      "name": "Tatu Turunen",
+      "firstName": "Tatu",
+      "lastName": "Turunen",
+      "code": null
+    },
+    "lastUpdatedDateTime": null,
+    "lastUpdatedBy": null
+  },
+  {
+    "guid": "47507849-d5fb-e50f-3554-32bc201d3383",
+    "phase": {
+      "guid": "d1104725-9e30-acf0-2f52-9a8e816ad2f5",
+      "name": "Platform support Q1: Feb",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Email form improvement.",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-02-17",
+    "quantity": 1.75,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-02-21T18:22:02+02:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": "2022-02-21T18:22:27+02:00",
+    "lastUpdatedBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    }
+  },
+  {
+    "guid": "e9a398c6-a9ca-2a37-2c68-2746e36f28a7",
+    "phase": {
+      "guid": "d1104725-9e30-acf0-2f52-9a8e816ad2f5",
+      "name": "Platform support Q1: Feb",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Options for hiding Title+Description while on Outlook.\n",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-02-16",
+    "quantity": 2.5,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-02-21T18:20:35+02:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": "2022-02-21T18:20:50+02:00",
+    "lastUpdatedBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    }
+  },
+  {
+    "guid": "9f2d3f9c-6125-624b-fd82-0e86ee169dda",
+    "phase": {
+      "guid": "d1104725-9e30-acf0-2f52-9a8e816ad2f5",
+      "name": "Platform support Q1: Feb",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Weekly meeting.",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-02-14",
+    "quantity": 0.76667,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-02-21T18:18:31+02:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": null,
+    "lastUpdatedBy": null
+  },
+  {
+    "guid": "53c32b51-8e45-7ac5-b783-9b1267c45145",
+    "phase": {
+      "guid": "d1104725-9e30-acf0-2f52-9a8e816ad2f5",
+      "name": "Platform support Q1: Feb",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Pixel implementation. \n",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-02-09",
+    "quantity": 2.6,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-02-13T21:29:02+02:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": null,
+    "lastUpdatedBy": null
+  },
+  {
+    "guid": "d1713ec8-ae57-8919-64d6-613aa0ffd855",
+    "phase": {
+      "guid": "d1104725-9e30-acf0-2f52-9a8e816ad2f5",
+      "name": "Platform support Q1: Feb",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Organize completed tickets in Release doc.\n",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-02-08",
+    "quantity": 0.5,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-02-13T21:28:30+02:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": null,
+    "lastUpdatedBy": null
+  },
+  {
+    "guid": "d78e4635-349f-cebc-1ee2-2c0c8894cbe8",
+    "phase": {
+      "guid": "d1104725-9e30-acf0-2f52-9a8e816ad2f5",
+      "name": "Platform support Q1: Feb",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Final checking with Vy: Calculator forms submission.\n- Weekly meeting.",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-02-07",
+    "quantity": 1.66667,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-02-09T00:17:20+02:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": "2022-02-13T21:27:29+02:00",
+    "lastUpdatedBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    }
+  },
+  {
+    "guid": "8fd9ac5a-e513-0379-a494-60c21cd113af",
+    "phase": {
+      "guid": "d1104725-9e30-acf0-2f52-9a8e816ad2f5",
+      "name": "Platform support Q1: Feb",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "Weekly",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 90,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 90,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "c450b6ee-2690-b794-ff0a-1884c2d21cc1",
+      "name": "Tatu Turunen",
+      "firstName": "Tatu",
+      "lastName": "Turunen",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-02-07",
+    "quantity": 0.5,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-02-10T16:25:13+02:00",
+    "createdBy": {
+      "guid": "c450b6ee-2690-b794-ff0a-1884c2d21cc1",
+      "name": "Tatu Turunen",
+      "firstName": "Tatu",
+      "lastName": "Turunen",
+      "code": null
+    },
+    "lastUpdatedDateTime": null,
+    "lastUpdatedBy": null
+  },
+  {
+    "guid": "ea68ee08-3b5e-942d-7fff-9489be5f30cd",
+    "phase": {
+      "guid": "d1104725-9e30-acf0-2f52-9a8e816ad2f5",
+      "name": "Platform support Q1: Feb",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- GTM Script Modification.\n- Observed code from previous dev.\n- Made changes to every region.\n- Testings.",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-02-04",
+    "quantity": 4.6,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-02-08T07:33:09+02:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": "2022-02-10T09:34:12+02:00",
+    "lastUpdatedBy": {
+      "guid": "64d1fc88-5131-a891-55d3-fcdd33b399c0",
+      "name": "Heli Hannula",
+      "firstName": "Heli",
+      "lastName": "Hannula",
+      "code": ""
+    }
+  },
+  {
+    "guid": "b6436fd3-0568-2e33-283d-007828edb548",
+    "phase": {
+      "guid": "d1104725-9e30-acf0-2f52-9a8e816ad2f5",
+      "name": "Platform support Q1: Feb",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "MC + AWR",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 90,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 90,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "c450b6ee-2690-b794-ff0a-1884c2d21cc1",
+      "name": "Tatu Turunen",
+      "firstName": "Tatu",
+      "lastName": "Turunen",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-02-04",
+    "quantity": 0.5,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-02-10T16:21:52+02:00",
+    "createdBy": {
+      "guid": "c450b6ee-2690-b794-ff0a-1884c2d21cc1",
+      "name": "Tatu Turunen",
+      "firstName": "Tatu",
+      "lastName": "Turunen",
+      "code": null
+    },
+    "lastUpdatedDateTime": null,
+    "lastUpdatedBy": null
+  },
+  {
+    "guid": "420380b0-7a7b-7e8f-b40e-688a56b8f1e5",
+    "phase": {
+      "guid": "d1104725-9e30-acf0-2f52-9a8e816ad2f5",
+      "name": "Platform support Q1: Feb",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Weekly meeting.\n- Created button from the fallback state (lead to CLoudPage) to Contact us form in SE + US.\n- Testings.",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-02-01",
+    "quantity": 3.6,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-02-01T13:51:41+02:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": "2022-02-10T09:34:12+02:00",
+    "lastUpdatedBy": {
+      "guid": "64d1fc88-5131-a891-55d3-fcdd33b399c0",
+      "name": "Heli Hannula",
+      "firstName": "Heli",
+      "lastName": "Hannula",
+      "code": ""
+    }
+  },
+  {
+    "guid": "2fa9d207-e711-5ed3-f211-f44fac338836",
+    "phase": {
+      "guid": "d1104725-9e30-acf0-2f52-9a8e816ad2f5",
+      "name": "Platform support Q1: Feb",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "journey split + update",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 90,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 90,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "c450b6ee-2690-b794-ff0a-1884c2d21cc1",
+      "name": "Tatu Turunen",
+      "firstName": "Tatu",
+      "lastName": "Turunen",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-02-01",
+    "quantity": 1,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-02-03T16:20:01+02:00",
+    "createdBy": {
+      "guid": "c450b6ee-2690-b794-ff0a-1884c2d21cc1",
+      "name": "Tatu Turunen",
+      "firstName": "Tatu",
+      "lastName": "Turunen",
+      "code": null
+    },
+    "lastUpdatedDateTime": "2022-02-10T10:19:05+02:00",
+    "lastUpdatedBy": {
+      "guid": "64d1fc88-5131-a891-55d3-fcdd33b399c0",
+      "name": "Heli Hannula",
+      "firstName": "Heli",
+      "lastName": "Hannula",
+      "code": ""
+    }
+  },
+  {
+    "guid": "4718c8fd-53b6-d5f8-9269-56c2b073750c",
+    "phase": {
+      "guid": "c5be4320-b0cd-afa7-833e-7f919211f6d8",
+      "name": "PM",
+      "isCompleted": false,
+      "isLocked": false
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "PM: Billable customer work",
+    "unitPrice": {
+      "amount": 144,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 144,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 105,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 105,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "43fb085d-214a-85a4-75af-a9b54418ba80",
+      "name": "Markus Meyer",
+      "firstName": "Markus",
+      "lastName": "Meyer",
+      "code": ""
+    },
+    "overtime": null,
+    "eventDate": "2022-01-31",
+    "quantity": 1,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-01-31T13:26:36+02:00",
+    "createdBy": {
+      "guid": "43fb085d-214a-85a4-75af-a9b54418ba80",
+      "name": "Markus Meyer",
+      "firstName": "Markus",
+      "lastName": "Meyer",
+      "code": ""
+    },
+    "lastUpdatedDateTime": "2022-02-10T09:58:15+02:00",
+    "lastUpdatedBy": {
+      "guid": "64d1fc88-5131-a891-55d3-fcdd33b399c0",
+      "name": "Heli Hannula",
+      "firstName": "Heli",
+      "lastName": "Hannula",
+      "code": ""
+    }
+  },
+  {
+    "guid": "ce4004fb-78c2-6b10-3ddd-5dae61479afb",
+    "phase": {
+      "guid": "3e9ee8bb-630c-26f4-c9ec-444a7cf0aea1",
+      "name": "Platform support Q1: Jan",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "weekly",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 90,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 90,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "c450b6ee-2690-b794-ff0a-1884c2d21cc1",
+      "name": "Tatu Turunen",
+      "firstName": "Tatu",
+      "lastName": "Turunen",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-01-31",
+    "quantity": 0.5,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-01-31T13:00:48+02:00",
+    "createdBy": {
+      "guid": "c450b6ee-2690-b794-ff0a-1884c2d21cc1",
+      "name": "Tatu Turunen",
+      "firstName": "Tatu",
+      "lastName": "Turunen",
+      "code": null
+    },
+    "lastUpdatedDateTime": "2022-02-10T10:19:05+02:00",
+    "lastUpdatedBy": {
+      "guid": "64d1fc88-5131-a891-55d3-fcdd33b399c0",
+      "name": "Heli Hannula",
+      "firstName": "Heli",
+      "lastName": "Hannula",
+      "code": ""
+    }
+  },
+  {
+    "guid": "660aefe5-cc99-fc08-0dee-80cd2452bfd4",
+    "phase": {
+      "guid": "3e9ee8bb-630c-26f4-c9ec-444a7cf0aea1",
+      "name": "Platform support Q1: Jan",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Added configured additional emails in all journeys (NL, SE, US).\n- Testing for all fields to appear accordingly in Salesforce.\n- Additional testing in CloudPages.",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-01-28",
+    "quantity": 5.66667,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-01-31T10:02:14+02:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": "2022-02-10T09:34:12+02:00",
+    "lastUpdatedBy": {
+      "guid": "64d1fc88-5131-a891-55d3-fcdd33b399c0",
+      "name": "Heli Hannula",
+      "firstName": "Heli",
+      "lastName": "Hannula",
+      "code": ""
+    }
+  },
+  {
+    "guid": "1102c1fd-92fe-0d67-968b-b7eae5afafbd",
+    "phase": {
+      "guid": "3e9ee8bb-630c-26f4-c9ec-444a7cf0aea1",
+      "name": "Platform support Q1: Jan",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "Journey nurturing",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 90,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 90,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "c450b6ee-2690-b794-ff0a-1884c2d21cc1",
+      "name": "Tatu Turunen",
+      "firstName": "Tatu",
+      "lastName": "Turunen",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-01-28",
+    "quantity": 1,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-01-31T13:00:21+02:00",
+    "createdBy": {
+      "guid": "c450b6ee-2690-b794-ff0a-1884c2d21cc1",
+      "name": "Tatu Turunen",
+      "firstName": "Tatu",
+      "lastName": "Turunen",
+      "code": null
+    },
+    "lastUpdatedDateTime": "2022-02-10T10:19:05+02:00",
+    "lastUpdatedBy": {
+      "guid": "64d1fc88-5131-a891-55d3-fcdd33b399c0",
+      "name": "Heli Hannula",
+      "firstName": "Heli",
+      "lastName": "Hannula",
+      "code": ""
+    }
+  },
+  {
+    "guid": "9345f6df-7e7e-5caf-f0c7-40a4d16ee6b4",
+    "phase": {
+      "guid": "3e9ee8bb-630c-26f4-c9ec-444a7cf0aea1",
+      "name": "Platform support Q1: Jan",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Testing and debugging in CloudPages (Server Internal Error - 500)\n- Added more requested fields. \n- Re-structured journeys and emails accordingly to changes from Vy.",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-01-27",
+    "quantity": 7.6,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-01-31T09:56:41+02:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": "2022-02-10T09:34:12+02:00",
+    "lastUpdatedBy": {
+      "guid": "64d1fc88-5131-a891-55d3-fcdd33b399c0",
+      "name": "Heli Hannula",
+      "firstName": "Heli",
+      "lastName": "Hannula",
+      "code": ""
+    }
+  },
+  {
+    "guid": "167fcc12-66ac-8445-b73d-b2961a993f9e",
+    "phase": {
+      "guid": "3e9ee8bb-630c-26f4-c9ec-444a7cf0aea1",
+      "name": "Platform support Q1: Jan",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Additional fixes",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-01-26",
+    "quantity": 1.66667,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-01-31T09:58:23+02:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": "2022-02-10T09:34:12+02:00",
+    "lastUpdatedBy": {
+      "guid": "64d1fc88-5131-a891-55d3-fcdd33b399c0",
+      "name": "Heli Hannula",
+      "firstName": "Heli",
+      "lastName": "Hannula",
+      "code": ""
+    }
+  },
+  {
+    "guid": "bec4161e-5a5d-32a3-1eaa-ab2d09d39b6c",
+    "phase": {
+      "guid": "3e9ee8bb-630c-26f4-c9ec-444a7cf0aea1",
+      "name": "Platform support Q1: Jan",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Add fields to US_EN + SE_SV Interactive emails.\n- Configured Emails.\n- Configured CloudPage. \n- Testings.",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-01-25",
+    "quantity": 5.6,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-01-27T06:37:49+02:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": "2022-02-10T09:34:12+02:00",
+    "lastUpdatedBy": {
+      "guid": "64d1fc88-5131-a891-55d3-fcdd33b399c0",
+      "name": "Heli Hannula",
+      "firstName": "Heli",
+      "lastName": "Hannula",
+      "code": ""
+    }
+  },
+  {
+    "guid": "74e40600-866a-e5a6-7c5b-709c614b751a",
+    "phase": {
+      "guid": "3e9ee8bb-630c-26f4-c9ec-444a7cf0aea1",
+      "name": "Platform support Q1: Jan",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Weekly meeting. ",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-01-24",
+    "quantity": 1.33333,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-01-27T01:42:29+02:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": "2022-02-10T09:34:12+02:00",
+    "lastUpdatedBy": {
+      "guid": "64d1fc88-5131-a891-55d3-fcdd33b399c0",
+      "name": "Heli Hannula",
+      "firstName": "Heli",
+      "lastName": "Hannula",
+      "code": ""
+    }
+  },
+  {
+    "guid": "4da35ce2-9743-64c9-eba8-05dd660b1a99",
+    "phase": {
+      "guid": "3e9ee8bb-630c-26f4-c9ec-444a7cf0aea1",
+      "name": "Platform support Q1: Jan",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "weekly",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 90,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 90,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "c450b6ee-2690-b794-ff0a-1884c2d21cc1",
+      "name": "Tatu Turunen",
+      "firstName": "Tatu",
+      "lastName": "Turunen",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-01-24",
+    "quantity": 0.5,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-01-31T12:59:50+02:00",
+    "createdBy": {
+      "guid": "c450b6ee-2690-b794-ff0a-1884c2d21cc1",
+      "name": "Tatu Turunen",
+      "firstName": "Tatu",
+      "lastName": "Turunen",
+      "code": null
+    },
+    "lastUpdatedDateTime": "2022-02-10T10:19:05+02:00",
+    "lastUpdatedBy": {
+      "guid": "64d1fc88-5131-a891-55d3-fcdd33b399c0",
+      "name": "Heli Hannula",
+      "firstName": "Heli",
+      "lastName": "Hannula",
+      "code": ""
+    }
+  },
+  {
+    "guid": "f1095e0f-af61-d07f-f2a6-44be10ff3193",
+    "phase": {
+      "guid": "3e9ee8bb-630c-26f4-c9ec-444a7cf0aea1",
+      "name": "Platform support Q1: Jan",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "Healthy checking for CloudPage + Journeys + Emails",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-01-20",
+    "quantity": 2,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-01-27T01:40:27+02:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": "2022-02-10T09:34:12+02:00",
+    "lastUpdatedBy": {
+      "guid": "64d1fc88-5131-a891-55d3-fcdd33b399c0",
+      "name": "Heli Hannula",
+      "firstName": "Heli",
+      "lastName": "Hannula",
+      "code": ""
+    }
+  },
+  {
+    "guid": "c61150dc-3166-8e71-89fe-108f699569c9",
+    "phase": {
+      "guid": "3e9ee8bb-630c-26f4-c9ec-444a7cf0aea1",
+      "name": "Platform support Q1: Jan",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Weekly meeting.",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-01-17",
+    "quantity": 0.6,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-01-27T01:41:52+02:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": "2022-02-10T09:34:12+02:00",
+    "lastUpdatedBy": {
+      "guid": "64d1fc88-5131-a891-55d3-fcdd33b399c0",
+      "name": "Heli Hannula",
+      "firstName": "Heli",
+      "lastName": "Hannula",
+      "code": ""
+    }
+  },
+  {
+    "guid": "55f7734f-f4c4-6ef5-727c-6a6358b00400",
+    "phase": {
+      "guid": "3e9ee8bb-630c-26f4-c9ec-444a7cf0aea1",
+      "name": "Platform support Q1: Jan",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "weekly",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 90,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 90,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "c450b6ee-2690-b794-ff0a-1884c2d21cc1",
+      "name": "Tatu Turunen",
+      "firstName": "Tatu",
+      "lastName": "Turunen",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-01-17",
+    "quantity": 0.5,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-01-31T12:59:01+02:00",
+    "createdBy": {
+      "guid": "c450b6ee-2690-b794-ff0a-1884c2d21cc1",
+      "name": "Tatu Turunen",
+      "firstName": "Tatu",
+      "lastName": "Turunen",
+      "code": null
+    },
+    "lastUpdatedDateTime": "2022-02-10T10:19:05+02:00",
+    "lastUpdatedBy": {
+      "guid": "64d1fc88-5131-a891-55d3-fcdd33b399c0",
+      "name": "Heli Hannula",
+      "firstName": "Heli",
+      "lastName": "Hannula",
+      "code": ""
+    }
+  },
+  {
+    "guid": "a685db64-c2c8-f763-9e1a-88d658cc0d87",
+    "phase": {
+      "guid": "3e9ee8bb-630c-26f4-c9ec-444a7cf0aea1",
+      "name": "Platform support Q1: Jan",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Final testing and recheck with Vili (Message field).",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-01-11",
+    "quantity": 1.5,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-01-17T10:16:37+02:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": "2022-02-10T09:34:12+02:00",
+    "lastUpdatedBy": {
+      "guid": "64d1fc88-5131-a891-55d3-fcdd33b399c0",
+      "name": "Heli Hannula",
+      "firstName": "Heli",
+      "lastName": "Hannula",
+      "code": ""
+    }
+  },
+  {
+    "guid": "822a88aa-e8ae-7be6-e780-04965835f035",
+    "phase": {
+      "guid": "3e9ee8bb-630c-26f4-c9ec-444a7cf0aea1",
+      "name": "Platform support Q1: Jan",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "- Weekly Meeting.\n- Separate feedback Message and Data field. \n- Configure CloudPage to receive Message and add to the correct field in SaleCloud.",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 70,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 70,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-01-10",
+    "quantity": 4.6,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-01-17T10:16:07+02:00",
+    "createdBy": {
+      "guid": "e3b8debb-7aab-d6b3-c0a3-da96ce1fb6bb",
+      "name": "Duong Dinh",
+      "firstName": "Duong",
+      "lastName": "Dinh",
+      "code": null
+    },
+    "lastUpdatedDateTime": "2022-02-10T09:34:12+02:00",
+    "lastUpdatedBy": {
+      "guid": "64d1fc88-5131-a891-55d3-fcdd33b399c0",
+      "name": "Heli Hannula",
+      "firstName": "Heli",
+      "lastName": "Hannula",
+      "code": ""
+    }
+  },
+  {
+    "guid": "02c5de41-1aac-85d8-b29d-18b7f21d8ace",
+    "phase": {
+      "guid": "3e9ee8bb-630c-26f4-c9ec-444a7cf0aea1",
+      "name": "Platform support Q1: Jan",
+      "isCompleted": true,
+      "isLocked": true
+    },
+    "project": {
+      "guid": "0948f2a6-696b-4587-a2c0-95e8a61a94b5",
+      "name": "Neste RRT: MSF Platform support 2022",
+      "internalName": "Neste RRT: MSF ",
+      "number": 6849,
+      "companyGuid": "81421a06-7835-a3f7-dadf-ca917609dacf",
+      "isClosed": false
+    },
+    "customer": {
+      "guid": "e0b63559-bca1-bb42-9631-a0c00e06aaa8",
+      "name": "Neste Oyj,  Renewable Fuels",
+      "number": 10825
+    },
+    "workType": {
+      "guid": "dbd24264-5901-678b-956b-5bcbc3d79387",
+      "name": "Billable customer work",
+      "code": "1"
+    },
+    "invoice": null,
+    "invoiceRowGuid": null,
+    "description": "Platform support Q1: Jan: Billable customer work. Weekly and AWR",
+    "unitPrice": {
+      "amount": 114,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 114,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectCost",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "unitCost": {
+      "amount": 90,
+      "currencyCode": "EUR",
+      "multiCurrencyInfo": [
+        {
+          "amount": 90,
+          "currencyCode": "EUR",
+          "purpose": [
+            "ProjectPrice",
+            "UserCost"
+          ]
+        }
+      ]
+    },
+    "invoiceRowDescription": null,
+    "invoiceQuantity": null,
+    "plannedInvoiceQuantity": null,
+    "isBillable": false,
+    "billableStatus": "NotBillable",
+    "isProductive": true,
+    "isApproved": null,
+    "isModifiable": true,
+    "invoiceRowComment": null,
+    "activityGuid": null,
+    "user": {
+      "guid": "c450b6ee-2690-b794-ff0a-1884c2d21cc1",
+      "name": "Tatu Turunen",
+      "firstName": "Tatu",
+      "lastName": "Turunen",
+      "code": null
+    },
+    "overtime": null,
+    "eventDate": "2022-01-10",
+    "quantity": 1,
+    "startTime": null,
+    "endTime": null,
+    "createdDateTime": "2022-01-31T12:54:13+02:00",
+    "createdBy": {
+      "guid": "c450b6ee-2690-b794-ff0a-1884c2d21cc1",
+      "name": "Tatu Turunen",
+      "firstName": "Tatu",
+      "lastName": "Turunen",
+      "code": null
+    },
+    "lastUpdatedDateTime": "2022-02-10T10:19:05+02:00",
+    "lastUpdatedBy": {
+      "guid": "64d1fc88-5131-a891-55d3-fcdd33b399c0",
+      "name": "Heli Hannula",
+      "firstName": "Heli",
+      "lastName": "Hannula",
+      "code": ""
+    }
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "name": "slack-bot",
+  "version": "0.1.0",
+  "description": "",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=14",
+    "npm": ">=7"
+  },
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development  nodemon index.js",
+    "prod": "cross-env NODE_ENV=production  node index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://duong_dinh@bitbucket.org/duong_dinh/mc-slackbot.git"
+  },
+  "author": "MC-development-team",
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "cross-env": "^7.0.3",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "@fast-csv/format": "^4.3.5",
+    "@fast-csv/parse": "^4.3.6",
+    "@slack/bolt": "^3.11.0",
+    "@slack/socket-mode": "^1.3.0-rc.1",
+    "axios": "^0.26.0",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^16.0.3",
+    "fast-csv": "^4.3.6",
+    "googleapis": "^100.0.0",
+    "moment": "^2.29.1",
+    "node-schedule": "^2.1.0",
+    "tracer": "^1.1.5",
+    "winston": "^3.7.2"
+  }
+}

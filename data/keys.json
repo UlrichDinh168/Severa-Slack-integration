@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ilmatar",
+  "private_key_id": "efd9a922e6f4ee464780bc5e1c7980b9c90d0c33",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDkMU6qhIedC9Or\nV+bTCeReFCMCWDQDaRwjUyH6Ykikv7lrcVn1fcJHvCmV2bAlXYeeHLxEF4HThym/\nhVjZIDWbZ0rWnyZR5il/OzNE/wdSVIG6urAvXK8CSUJinLpZ2qVWji9AYD4vsj3j\nyJrVeT71g4nohU4yU9YzrLly1XHWysShoDU+yyi/46FoNJmoiFI/R4sktrAePJyV\n8vqzZ9sD3nx+e7EkURZfkuwGsLMpJNNF6eh50TDG4agfKS1RzuQYnWAi62KcYGNv\nGNKyp8dK+dxamS9RbhX4AR1XNFVe6z4j2jp12ABcKQeB3ceCSjdi0RviKso+g47y\nVVmvPT7VAgMBAAECggEACAZWvE3T+e28HgW8n5y931iGzF4qkGJtLwlorOrDoBZu\niZO/VJAPwtwN13kWLyWjBkza+Fl5kOU0YMmzkJu+pt5FMaBtvGon1EpSP60Nb5Of\nOE4B1riNQwRR8zBoFdf+uMuEsQUDuIzSRBLZyV825ODYDSTa+iHTNCkn10GODlBR\n4Sa0wI+jQLwZa15D55k/cJinxleKCd7KWIT8FrjqUN6cItPNB0vCxlFedEFolSkg\nettY87aAN6TL6VPwizNU+V7umguph3UqIBc0N98jU2D+H7YobtLdmwq4iG2Orm/4\nbg+wjaFm9t4Szfq6Hw4mQ2n6y/P5sVWAbg7kBjAMIQKBgQDySJSLL8zmQmFtL9PN\nPNVvg01A+pREP9YnN1ucacMmnG9ERpW5NtXpBpIuzunsB82cV3Q+lj/MRuvkW5Qx\nunbewYvOo0On4NPRuoX8VXvPrL60ZyG/LlwvTgw18f3FhQYBjD5VysIy95V2my0Q\nElpNfeWYKWWQDvbO3IJXCwxIbQKBgQDxHIHYQK41wSGM1tcYusjHhZ5viMTF8Cz1\n0a137mrQStUft5Bsd9OmWVoWAoXEs+IRkF14W5+N/qY8UONWe+PUxObzHyXZQ/AL\ngyO+A46IqJbdi/GK+NPfX/WN2d2Hnb8Wshhr2EQ+4h7gcSjj7IDddFtACTMKyP0T\nODDQOD+fCQKBgQCl+7dYS50SOnPIe7Wcq4qFZOyuEX017I3oO/KVC5fYgd9wZPL5\n+mk9xXSsgLCdNRNVgkxu/Dwk1ImS3nJ+RwJcxTfkjtEw18QFsMVOA7pYoj3cFbN2\n6GnbNpsC8hArG2Dr+opR+CBnDlrk8JZEpm4bHJ8ISYP812OagFMDEtyNWQKBgQC2\n8FdAekrz9DZ9guCvHcGLSUGeBJqwSHwEg3PnxFj881pjd0a4Ve6bj73/ZyiRx55m\njy+sS3BzL1x39TOYgeWqoT9OBjsUbyypv3WWDWLPI4NcU3sQY512JXvNhhlEdZbw\nJG7NHMkjITQmPRW2YdKgtFEr9A7rRvZl58N5qMP06QKBgBbAHOxyVFXDsc+7nXgu\nIhpbZ0mz8Oo/pgptFAv9Zrd+Rosc62ldtLchJ5HM1xUR2XEMP5YVz3eOf4HzkTpT\nNB2kZiAF5yqhMtW7tIVudjT2u2M5Ajw/O6z9kISIEmLJh91NfrjQCK5SlZi0mzyt\no5Byyh8T7jFH/zaAEUjnWPx2\n-----END PRIVATE KEY-----\n",
+  "client_email": "slackbot@ilmatar.iam.gserviceaccount.com",
+  "client_id": "110586977559542911764",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/slackbot%40ilmatar.iam.gserviceaccount.com"
+}
