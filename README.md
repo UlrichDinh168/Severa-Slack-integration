@@ -3,6 +3,7 @@
 ### What is this repository for?
 
 - The repo is for Severa-to-Slack implementation for **Company**.
+- Most works were handled in `utils` folder
 
 ### Features
 - Post weekly messages (and CSV file) to Operational Team Management channel and inform PMs whose projects were over deadline or exceeded budget.
