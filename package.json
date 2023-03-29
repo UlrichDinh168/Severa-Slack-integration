@@ -13,11 +13,6 @@
     "prod": "cross-env NODE_ENV=production  node index.js",
     "start": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://duong_dinh@bitbucket.org/duong_dinh/mc-slackbot.git"
-  },
-  "author": "MC-development-team",
   "devDependencies": {
     "cors": "^2.8.5",
     "cross-env": "^7.0.3",
